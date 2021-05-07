@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e003cfb-eda8-45c6-a336-75961d8bbe43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[E031801074004143]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/MTracePlugin">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/MTraceLib">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MTraceDemo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tracelib" />
+  </component>
+  <component name="ProjectId" id="1s9XqU4vH4Kdm4pE6ZwTzZT65Qj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hank.tracelib.db" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\MTraceDemo\MTraceLib" />
+      <recent name="D:\github\MTraceDemo\MTracePlugin" />
+      <recent name="D:\github\TimeTracer-master\MavenApplication\MTraceDemo\MTracePlugin\src\main" />
+      <recent name="D:\github\TimeTracer-master\MavenApplication\MTraceDemo\app" />
+      <recent name="D:\github\TimeTracer-master\MavenApplication\MTraceDemo\MTraceLib\src\main\java\com\hank\tracelib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.MTraceDemo:MTraceLib [uploadArchives]">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MTraceDemo.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MTraceDemo:MTraceLib [uploadArchives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/MTraceLib" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="uploadArchives" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MTraceDemo:MTracePlugin [pluginDescriptors]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/MTracePlugin" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="pluginDescriptors" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MTraceDemo:MTracePlugin [publishPlugins]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/MTracePlugin" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishPlugins" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MTraceDemo:MTracePlugin [uploadArchives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/MTracePlugin" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="uploadArchives" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MTraceDemo:MTraceLib [uploadArchives]" />
+        <item itemvalue="Gradle.MTraceDemo:MTracePlugin [pluginDescriptors]" />
+        <item itemvalue="Gradle.MTraceDemo:MTracePlugin [publishPlugins]" />
+        <item itemvalue="Gradle.MTraceDemo:MTracePlugin [uploadArchives]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e003cfb-eda8-45c6-a336-75961d8bbe43" name="Default Changelist" comment="" />
+      <created>1620285969743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620285969743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/repo" />
+      <path value="$PROJECT_DIR$/repo/MTrace" />
+      <path value="$PROJECT_DIR$/tracelib" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="68" y="407" key="#PSD" timestamp="1620296304693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="68" y="407" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1620296304693" />
+    <state x="718" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1620358403149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1620358403149" />
+    <state x="624" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620288541631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620288541631" />
+    <state x="494" y="42" key="CommitChangelistDialog2" timestamp="1620370318592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="494" y="42" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1620370318592" />
+    <state x="779" y="392" key="Github.ShareDialog" timestamp="1620374784263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="392" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620374784263" />
+    <state x="571" y="154" key="Github.UntrackedFilesDialog" timestamp="1620370284162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="154" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620370284162" />
+    <state width="1847" height="600" key="GridCell.Tab.0.bottom" timestamp="1620373319794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="600" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620373319794" />
+    <state width="1847" height="600" key="GridCell.Tab.0.center" timestamp="1620373319794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="600" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620373319794" />
+    <state width="1847" height="600" key="GridCell.Tab.0.left" timestamp="1620373319794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="600" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620373319794" />
+    <state width="1847" height="600" key="GridCell.Tab.0.right" timestamp="1620373319794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1847" height="600" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620373319794" />
+    <state x="329" y="77" key="SettingsEditor" timestamp="1620374973459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="329" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1620374973459" />
+    <state x="588" y="185" width="744" height="668" key="find.popup" timestamp="1620356993632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="588" y="185" width="744" height="668" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620356993632" />
+    <state x="587" y="77" key="psd.add.module.dependency.panel.dimension" timestamp="1620296159926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="77" key="psd.add.module.dependency.panel.dimension/0.0.1920.1040@0.0.1920.1040" timestamp="1620296159926" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1620358277442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620358277442" />
+  </component>
+</project>
