@@ -1,3 +1,3 @@
 include ':MTraceLib'
 include ':app'
-rootProject.name = "MTraceDemo"
+rootProject.name = "TraceLib"
